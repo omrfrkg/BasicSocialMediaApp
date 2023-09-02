@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234259942203",
+    "project_id": "basicsocialmediaapp-8c058",
+    "storage_bucket": "basicsocialmediaapp-8c058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234259942203:android:0556c83d1e4e038625051e",
+        "android_client_info": {
+          "package_name": "com.omrfrkg.basicsocialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234259942203-btrclcd4o1amlguqlf90s3nbm2ef0rla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIZr4DabEbO5mjBWFj2h-HrLKa4XpsRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234259942203-btrclcd4o1amlguqlf90s3nbm2ef0rla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
